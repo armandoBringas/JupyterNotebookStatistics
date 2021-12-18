@@ -1,0 +1,34 @@
+{'26-35': 0, '36-45': 1, '46-55': 2}
+{'Biparental (los dos padres)': 0, 'Monoparental (madre o padre soltero)': 1}
+{'$11,000-$15,000 pesos': 0, '$16,000-$20,000 pesos': 1, '$21,000-$25,000 pesos': 2, '$5,000-$10,000 pesos': 3, 'Más de 25,000 pesos': 4}
+{'No': 0, 'Sí': 1}
+{'Carrera técnica': 0, 'Estudios universitarios': 1, 'Maestría': 2, 'Preparatoria o bachillerato': 3, 'Primaria': 4}
+{'No': 0, 'Sí': 1}
+{'Privada': 0, 'Pública': 1}
+{'Desinterés de los hijos por las clases en línea/virtuales': 0, 'Falta de recursos': 1, 'Falta de tiempo para dar seguimiento a las clases virtuales/híbridas/programa en línea': 2, 'Insatisfacción de clases/asesorías en línea': 3, 'Porque la educación es irrelevante en este momento': 4}
+{'Contenido pobre o irrelevante del programa': 0, 'Elevada carga de trabajo': 1, 'Mala actitud de los docentes hacia los alumnos': 2, 'Poco control de grupo por parte de los maestros': 3, 'Prioridad a las evaluaciones por encima del aprendizaje': 4, 'Prisa en cubrir los temas del programa': 5}
+{<NA>: -1, 'Acompañamiento emocional': 0, 'Atención personalizada': 1, 'Autonomía en la educación': 2, 'Programa personalizado': 3}
+{'1-6 meses': 0, '13-18 meses': 1, '7-12 meses': 2, 'más de 19 meses': 3}
+{'1 a 3 meses': 0, 'Más de 1 año': 1, 'Más de 3 meses': 2, 'Más de 6 meses': 3}
+{'Me informé por mi cuenta': 0, 'Más de una de las opciones anteriores': 1, 'Tomé un curso/taller': 2, 'Una persona me brindó información': 3}
+{'Alternando más de una de las opciones anteriores': 0, 'Comunidad de aprendizaje (Sin registro ante la SEP)': 1, 'Con escuela sombrilla': 2, 'Con un tutor': 3, 'Fuera de la escuela pero con un programa': 4, 'Sin programa, de forma libre': 5}
+{'Mucho': 0, 'Nada': 1, 'Poco': 2, 'Suficiente': 3}
+{'Aprendizaje de calidad': 0, 'Certificado': 1, 'Que mi(s) hijo(s) sigan las tendencias actuales de la educación': 2}
+{'Elegir el contenido a revisar': 0, 'Encontrar forma de validar estudios': 1, 'Encontrar la información y recursos educativos para cubrir los temas': 2, 'Mantener el interés de los niños en el aprendizaje': 3, 'Tener apoyo familiar': 4}
+{'Mucha dificultad': 0, 'Ninguna dificultad': 1, 'Poca dificultad': 2}
+{'Material digital en sitios especializados en educación': 0, 'Material disponible en la red en sitios no especializados': 1, 'Material impresos (libros, revistas, enciclopedias)': 2, 'Otro': 3}
+{'Mejorado': 0, 'Sigue igual': 1}
+{'Sin cambios': 0, 'Sí': 1}
+{'Igual': 0, 'Mayor': 1, 'Menor': 2}
+{'No': 0}
+{'Con compañeros de talleres o clases extracurriculares': 0, 'Con familiares': 1, 'Con personas del vecindario': 2}
+{'Mejor actitud': 0, 'Misma actitud': 1, 'Peor actitud': 2}
+{'Educación en casa con programa (Homeschooling)': 0, 'Educación en casa sin programa (Unschooling)': 1}
+{'No': 0, 'No estoy segura': 1, 'Sí': 2}
+{'Los niños': 0, 'Los padres': 1, 'Más de uno de los anteriores': 2, 'Un programa diferente a la SEP': 3}
+{'No': 0, 'Sí': 1}
+{'Busca a alguien más que pueda impartir el contenido (maestro, tutor, plataforma)': 0, 'Descarta el tema': 1, 'Investiga del tema para poder enseñar a su(s) hijo(s)': 2, 'Investiga y busca apoyo en alguien más experimentado en el tema': 3}
+{'Empeorado': 0, 'Mejorado': 1, 'Se mantienen igual': 2}
+{'Autonomía en el aprendizaje': 0, 'Herramientas de aprendizaje': 1, 'Herramientas de gestión emocional': 2}
+{'Mayor responsabilidad': 0, 'Menor responsabilidad': 1, 'Misma responsabilidad que en la escuela': 2}
+{'Ha disminuído': 0, 'Ha incrementado': 1, 'Ha permanecido igual': 2}
